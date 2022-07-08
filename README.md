@@ -103,7 +103,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/mianafzaal/Mian-Bot-MD4
-cd CheemsBot-MD
+cd Mian-Bot-MD
 npm start
 ```
 ## `For VPS`
